@@ -1,0 +1,22 @@
+{
+  "name": "@blinkmobile/surge-cli",
+  "version": "1.0.0",
+  "description": "our wrapper for https://github.com/sintaxi/surge",
+  "bin": {
+    "blinkmobile-surge": "bin/index.js"
+  },
+  "scripts": {
+    "test": "node -c index.js && node -c bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blinkmobile/surge-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/blinkmobile/surge-cli/issues"
+  },
+  "homepage": "https://github.com/blinkmobile/surge-cli#readme"
+}
