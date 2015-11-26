@@ -9,5 +9,5 @@ our wrapper for https://github.com/sintaxi/surge
 ## Installation
 
 ```sh
-npm -g install blinkmobile-surge surge
+npm -g install @blinkmobile/surge-cli surge
 ```
