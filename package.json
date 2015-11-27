@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/blinkmobile/surge-cli#readme",
   "engines": {
-    "node": ">=4.0.0",
+    "node": ">=5.0.0",
     "npm": ">=3.0.0"
   }
 }

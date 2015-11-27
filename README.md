@@ -6,6 +6,12 @@ our wrapper for https://github.com/sintaxi/surge
 [![Build Status](https://travis-ci.org/blinkmobile/surge-cli.png)](https://travis-ci.org/blinkmobile/surge-cli)
 
 
+## Requirements
+
+- [Node.js](https://nodejs.org/) 5.0 or newer
+- NPM 3.0 or newer
+
+
 ## Installation
 
 ```sh
