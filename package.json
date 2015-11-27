@@ -1,6 +1,6 @@
 {
   "name": "@blinkmobile/surge-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "our wrapper for https://github.com/sintaxi/surge",
   "bin": {
     "blinkmobile-surge": "bin/index.js"
