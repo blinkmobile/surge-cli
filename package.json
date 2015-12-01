@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "our wrapper for https://github.com/sintaxi/surge",
   "bin": {
-    "blinkmobile-surge": "bin/index.js"
+    "blinkm-surge": "bin/index.js"
   },
   "scripts": {
     "test": "node -c index.js && node -c bin/index.js"
